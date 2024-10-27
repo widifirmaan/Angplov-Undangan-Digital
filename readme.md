@@ -16,6 +16,8 @@
 
 Here're some of the project's best features:
 
+*   Just Try it, too much Feature
+  
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Just Clone it</p>
