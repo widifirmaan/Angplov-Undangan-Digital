@@ -1,0 +1,1423 @@
+# Translation of Plugins - Duplicate Post - Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Plugins - Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-12-25 12:44:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - Duplicate Post - Stable (latest release)\n"
+
+#: menu/configuration.php:618
+msgid "Enable \"Try it out\" buttons in add new plugin screen."
+msgstr "Aktifkan tombol \"Coba\" di layar tambah plugin baru."
+
+#: menu/configuration.php:610
+msgid "Clicking on it will spin up a new WordPress instance with the respective plugin installed. Powered by %s."
+msgstr "Klik padanya akan memulai instansi WordPress baru dengan plugin yang sesuai terpasang. Didukung oleh %s."
+
+#: menu/configuration.php:608
+msgid "add new plugins"
+msgstr "tambahkan plugin baru"
+
+#: menu/configuration.php:608
+msgid "If this feature is activated, you’ll see “Try it out”-buttons on the screen where you can"
+msgstr "Jika fitur ini diaktifkan, Anda akan melihat tombol “Coba” pada layar di mana Anda dapat"
+
+#: menu/configuration.php:604
+msgid "Test new plugins before installing:"
+msgstr "Uji plugin baru sebelum menginstal:"
+
+#: menu/modal.php:226
+msgid "click here to select multiple sites"
+msgstr "klik di sini untuk memilih beberapa situs"
+
+#: menu/configuration.php:634
+msgid "Adjust URLs in post content for new subsite"
+msgstr "Sesuaikan URL dalam konten pos untuk subsitus baru"
+
+#: menu/modal.php:56 menu/tooltips.php:118
+msgid "Select all"
+msgstr "Pilih semua"
+
+#: menu/configuration.php:644
+msgid "Move <b>Copy & Delete Posts</b> <u>menu item</u> under <b>Tools</b> dropdown"
+msgstr "Pindahkan <b>Salin & Hapus Pos</b> <u>item menu</u> di bawah dropdown <b>Alat</b>"
+
+#: menu/configuration.php:343 menu/modal.php:196 menu/tooltips.php:257
+msgid "All post meta"
+msgstr "Semua metadata pos"
+
+#: menu/variables.php:113
+msgid "Ok, done!"
+msgstr "Baik, selesai!"
+
+#: menu/variables.php:110
+msgid "No, I don't want to help you to improve the plugin."
+msgstr "Tidak, saya tidak ingin membantu Anda meningkatkan plugin ini."
+
+#: menu/variables.php:104
+msgid "Trouble logging in there?"
+msgstr "Kesulitan masuk di sana?"
+
+#: menu/variables.php:99
+msgid "Go to forum"
+msgstr "Pergi ke forum"
+
+#: menu/variables.php:88
+msgid "However, we noticed some optimization potential on your server."
+msgstr "Namun, kami melihat potensi optimisasi pada server Anda."
+
+#: menu/variables.php:82
+msgid "Copy worked!"
+msgstr "Salinan berhasil!"
+
+#: menu/variables.php:42
+msgid "%b_start%Please%b_end% copy below logs %a_start%into the forum%a_end% so that we can make the plugin even better (for free)!"
+msgstr "%b_start%Harap%b_end% salin log di bawah ini %a_start%ke dalam forum%a_end% sehingga kami dapat meningkatkan plugin ini lebih baik lagi (secara gratis)!"
+
+#: post/handler.php:691
+msgid "Invalid ID argument."
+msgstr "Argumen ID tidak valid."
+
+#: menu/variables.php:94
+msgid "Copy logs"
+msgstr "Salin log"
+
+#: copy-delete-posts.php:898
+msgid "Copy to clipboard failed, your browser does not support this function."
+msgstr "Salin ke clipboard gagal, peramban Anda tidak mendukung fungsi ini."
+
+#: copy-delete-posts.php:897
+msgid "Copy to clipboard was successfull."
+msgstr "Salin ke clipboard berhasil."
+
+#: post/handler.php:1570
+msgid "We couldn't catch current tasks, please try again later."
+msgstr "Kami tidak dapat menangkap tugas terkini, mohon coba lagi nanti. "
+
+#: post/handler.php:1555
+msgid "We can't confirm that we killed this task now, please try again later or check if it't killed."
+msgstr "Kami tidak dapat mengonfirmasi bahwa kami mematikan tugas ini sekarang, mohon coba lagi nanti atau periksa apakah tugas dimatikan. "
+
+#: post/handler.php:1532
+msgid "This task has already ended this work, please wait for list refresh and try again."
+msgstr "Tugas ini telah mengakhiri pekerjaan ini, mohon tunggu untuk menyegarkan daftar dan coba lagi."
+
+#: post/handler.php:1516
+msgid "We can't hide this task now, – maybe it't already hidden. Please try again later."
+msgstr "Kami tidak dapat menyembunyikan tugas ini sekarang, – mungkin telah disembunyikan. Mohon coba lagi nanti. "
+
+#: post/handler.php:1441
+msgid "You can't clear messages when tasks are in progress, please firstly kill tasks or wait till the end."
+msgstr "Anda tidak dapat menghapus pesan saat tugas sedang berjalan, mohon matikan tugas terlebih dahulu atau tunggu hingga selesai."
+
+#: post/handler.php:457
+msgid "Untitled Copy"
+msgstr "Salinan Tanpa Judul"
+
+#: menu/variables.php:144
+msgid "Average time is 8 copies per second."
+msgstr "Waktu rata-rata adalah 8 salinan per detik."
+
+#: menu/variables.php:141
+msgid ""
+"If you’re making a lot of copies it can take a while\n"
+"        <br>(up to 5 minutes if you’re on a slow server)."
+msgstr ""
+"Jika Anda membuat banyak salinan akan memakan waktu\n"
+"        <br>(sampai 5 menit jika server Anda lamban)."
+
+#: menu/variables.php:139
+msgid "Please wait, copying in progress..."
+msgstr "Mohon tunggu, sedang menyalin..."
+
+#: menu/variables.php:134
+msgid "Successfull copy image"
+msgstr "Berhasil menyalin gambar"
+
+#: menu/tooltips.php:275
+msgid "to"
+msgstr "ke"
+
+#: menu/tooltips.php:223
+msgid "Link cats"
+msgstr "Tautan cat"
+
+#: menu/tooltips.php:219
+msgid "Nav Menus"
+msgstr "Menu Nav"
+
+#: menu/tooltips.php:99
+msgid "define it for this case"
+msgstr "definisikan untuk kasus ini"
+
+#: menu/tooltips.php:72
+msgid "Settings:"
+msgstr "Pengaturan:"
+
+#: menu/tooltips.php:46
+msgid "Copy now!"
+msgstr "Salin sekarang!"
+
+#: menu/notifications.php:95
+msgid "Clear notifiactions"
+msgstr "Hapus notifikasi"
+
+#: menu/notifications.php:68
+msgid "Done:"
+msgstr "Selesai:"
+
+#: menu/notifications.php:45
+msgid "In progress:"
+msgstr "Sedang berjalan:"
+
+#: menu/notifications.php:38
+msgid "Copy & Delete"
+msgstr "Salin & Hapus"
+
+#: menu/modal.php:245 menu/tooltips.php:296
+msgid "Copy and jump to editing"
+msgstr "Salin dan loncat ke penyuntingan"
+
+#: menu/modal.php:243 menu/tooltips.php:294
+msgid "Copy it!"
+msgstr "Salin!"
+
+#: menu/modal.php:239 menu/tooltips.php:103 menu/tooltips.php:290
+msgid "Making more than 50 copies will take some time. – depending on your server."
+msgstr "Membuat lebih dari 50 salinan akan memakan waktu. – tergantung pada server Anda."
+
+#: menu/modal.php:218 menu/modal.php:230 menu/tooltips.php:63
+#: menu/tooltips.php:279
+msgid "this site"
+msgstr "situs ini"
+
+#: menu/modal.php:212 menu/tooltips.php:57 menu/tooltips.php:273
+msgid "time(s)"
+msgstr "waktu"
+
+#: menu/modal.php:189 menu/tooltips.php:250
+msgid "USM Settings"
+msgstr "Pengaturan USM"
+
+#: menu/modal.php:181 menu/tooltips.php:242
+msgid "Yoast Settings"
+msgstr "Pengaturan Yoast"
+
+#: menu/modal.php:173 menu/tooltips.php:234
+msgid "Woo Settings"
+msgstr "Pengaturan Woo"
+
+#: menu/modal.php:167 menu/tooltips.php:228
+msgid "Plugin options:"
+msgstr "Opsi plugin:"
+
+#: menu/modal.php:104 menu/tooltips.php:165
+msgid "Feat. image"
+msgstr "Termasuk gambar"
+
+#: menu/modal.php:58 menu/tooltips.php:120
+msgid "–– Profiles ––"
+msgstr "–– Profil ––"
+
+#: menu/modal.php:57 menu/tooltips.php:119
+msgid "Clean slate"
+msgstr "Mulai baru"
+
+#: menu/modal.php:55 menu/tooltips.php:77 menu/tooltips.php:117
+msgid "–– Select ––"
+msgstr "–– Pilih ––"
+
+#: menu/modal.php:52 menu/tooltips.php:115
+msgid "Use as basis settings"
+msgstr "Gunakan sebagai pengaturan dasar"
+
+#: menu/modal.php:48 menu/tooltips.php:111
+msgid "Elements to copy:"
+msgstr "Elemen untuk disalin:"
+
+#: menu/configuration.php:990 menu/variables.php:105
+msgid "Your account on Wordpress.org (where you open a new support thread) is different to the one you login to your WordPress dashboard (where you are now). If you don't have a WordPress.org account yet, please sign up at the top right on here. It only takes a minute :) Thank you!"
+msgstr "Akun Anda di WordPress.org (dimana Anda membuka utas dukungan baru) berbeda dengan akun login Anda ke dasbor WordPress (dimana Anda berada sekarang). Jika Anda belum memiliki akun WordPress.org, mohon mendaftar di kanan atas. Hanya membutuhkan satu menit :) Terima kasih! "
+
+#: menu/configuration.php:990
+msgid "<b>Questions?</b> We're happy to help in the <a href=\"https://wordpress.org/support/plugin/copy-delete-posts/#new-topic-0\" target=\"_blank\" style=\"text-decoration: none;\">Support Forum</a>."
+msgstr "<b>Pertanyaan?</b> Kami senang membantu di <a href=\"https://wordpress.org/support/plugin/copy-delete-posts/\" target=\"_blank\" style=\"text-decoration: none;\">Forum Bantuan</a>."
+
+#: menu/configuration.php:969
+msgid "You will be notified when the deletion process ends via <span class=\"cdp-green\">Admin Bar Menu</span>."
+msgstr "Anda akan diberi peringatan ketika proses penghapusan berakhir via <span class=\"cdp-green\">Menu Bar Admin</span>."
+
+#: menu/configuration.php:966
+msgid "Delete selected pages/posts!"
+msgstr "Hapus halaman/post terpilih!"
+
+#: menu/configuration.php:963
+msgid "I completed <u>all</u> steps, it’s ok!"
+msgstr "Saya menyelesaikan <u>semua</u> langkah, tidak apa-apa!"
+
+#: menu/configuration.php:950
+msgid "Select this option to move deleted posts to trash (instead of deleting them permanently right away)."
+msgstr "Pilih opsi ini untuk memindahkan post terhapus ke tempat sampah (daripada langsung menghapusnya secara permanen)."
+
+#: menu/configuration.php:948
+msgid "Yes, keep deleted posts in trash!"
+msgstr "Ya, simpan post yang dihapus di tempat sampah!"
+
+#: menu/configuration.php:944
+msgid "Move post(s) to trash?"
+msgstr "Pindahkan post ke tempat sampah?"
+
+#: menu/configuration.php:938
+msgid "If it’s necessary the process will dynamically slow down - depending on your server’s resource consumption. For example, if you’re using another plugin which is running a background process and it takes a lot of resources (+50%), our plugin will wait/slow down until the other process is complete."
+msgstr "Jika diperlukan proses akan melambat secara dinamis - tergantung pada konsumsi sumber server Anda. Contohnya, jika Anda menggunakan plugin lain yang berjalan di belakang dan memakan banyak sumber daya (+50%), plugin kami akan menunggu/melambat hingga proses lainnya selesai. "
+
+#: menu/configuration.php:936
+msgid "Enable this if you want to have your posts/pages getting deleted in batches (instead of all at once).<br />This reduces the risk of timeouts if you have a lot to delete.<br />"
+msgstr "Aktifkan ini jika Anda ingin menghapus post/halaman Anda per kelompok (daripada semuanya sekaligus).<br />Ini mengurangi risiko kehabisan waktu jika ada banyak yang harus dihapus.<br />"
+
+#: menu/configuration.php:931
+msgid "per minute"
+msgstr "per menit"
+
+#: menu/configuration.php:925
+msgid "Delete"
+msgstr "Hapus"
+
+#: menu/configuration.php:916
+msgid "Deletion throttling"
+msgstr "Penghapusan melambat"
+
+#: menu/configuration.php:912
+msgid "Enable this if you want to redirect the urls from your deleted posts/pages to the main one you decided to keep."
+msgstr "Aktifkan ini jika Anda ingin mengalihkan URL dari post/halaman Anda yang dihapus ke yang utama yang akan Anda simpan. "
+
+#: menu/configuration.php:907 menu/configuration.php:921
+msgid "Enabled"
+msgstr "Aktifkan"
+
+#: menu/configuration.php:906 menu/configuration.php:920
+msgid "Disabled"
+msgstr "Nonaktifkan"
+
+#: menu/configuration.php:901
+msgid "Automatic redirection"
+msgstr "Pengalihan otomatis"
+
+#: menu/configuration.php:894
+msgid "Check if you need these features (optional):"
+msgstr "Periksa jika Anda membutuhkan fitur-fitur ini (bersifat pilihan):"
+
+#: menu/configuration.php:890
+msgid "Select all the posts & pages which should be deleted (by ticking the checkboxes in the table above)."
+msgstr "Pilih semua post & halaman yang seharusnya dihapus (dengan mencentang kotak dalam tabel di atas)."
+
+#: menu/configuration.php:886
+msgid "Make sure you created a backup with, e.g. with <a href=\"https://wordpress.org/plugins/backup-backup/\" target=\"_blank\">this plugin</a>."
+msgstr "Pastikan Anda membuat pencadangan dengan, misalnya dengan <a href=\"https://wordpress.org/plugins/wp-clone-by-wp-academy/\" target=\"_blank\">plugin ini</a>."
+
+#: menu/configuration.php:880
+msgid "Steps to deletion:"
+msgstr "Langkah-langkah penghapusan:"
+
+#: menu/configuration.php:875
+msgid "You selected <b class=\"cdp-t-d-ct cdp-f-w-light\">0</b> pages/posts to be deleted"
+msgstr "Anda memilih <b class=\"cdp-t-d-ct cdp-f-w-light\">0</b> halaman/post untuk dihapus"
+
+#: menu/configuration.php:867
+msgid "<u class=\"cdp-d-select-all cdp-f-w-light\">Select all</u> (also from other pages)"
+msgstr "<u class=\"cdp-d-select-all cdp-f-w-light\">Pilih semua</u> (juga dari halaman lain)"
+
+#: menu/configuration.php:850
+msgid "# of words"
+msgstr "# dari kata"
+
+#: menu/configuration.php:849
+msgid "Date created"
+msgstr "Tanggal dibuat"
+
+#: menu/configuration.php:848
+msgid "Type"
+msgstr "Tipe"
+
+#: menu/configuration.php:847
+msgid "Slug/URL"
+msgstr "Slug/URL"
+
+#: menu/configuration.php:834
+msgid "per page"
+msgstr "per halaman"
+
+#: menu/configuration.php:821
+msgid "Show"
+msgstr "Tampilkan"
+
+#: menu/configuration.php:813
+msgid "Scan has found [<span id=\"cdp-d-table-pagi-ilosc-wynikow\" class=\"cdp-f-w-bold\"></span>] duplicates"
+msgstr "Pemindaian menemukan [<span id=\"cdp-d-table-pagi-ilosc-wynikow\" class=\"cdp-f-w-bold\"></span>] duplikat"
+
+#: menu/configuration.php:806
+msgid "Scan for duplicates now!<br /><small class=\"cdp-sm-d cdp-f-s-17 cdp-f-w-medium\">(at this point nothing gets deleted)</small>"
+msgstr "Pindai duplikat sekarang!<br /><small class=\"cdp-sm-d cdp-f-s-17 cdp-f-w-medium\">(pada titik ini tidak ada yang dihapus)</small>"
+
+#: menu/configuration.php:800
+msgid "<b>Filter results (optional)</b>: Only list them, if they<span id=\"cdpp-switch-mf\"> […]</span>"
+msgstr "<b>Hasil penyaringan (sifatnya pilihan)</b>: Cukup mencatatnya, jika mereka <span id=\"cdpp-switch-mf\"> […]</span>"
+
+#: menu/configuration.php:794
+msgid "Delete ALL duplicates, don’t keep any (Be careful!)"
+msgstr "Hapus SEMUA duplikat, jangan ada yang disimpan (Hati-hati!)"
+
+#: menu/configuration.php:793
+msgid "Keep the newest duplicate (typically the last copy you made)"
+msgstr "Simpan duplikat terbaru (biasanya salinan terakhir yang Anda buat)"
+
+#: menu/configuration.php:792
+msgid "Keep the oldest duplicate (typically the original)"
+msgstr "Simpan duplikat terlama (biasanya yang orisinal)"
+
+#: menu/configuration.php:788
+msgid "Which version do you want to keep?"
+msgstr "Versi mana yang ingin Anda simpan?"
+
+#: menu/configuration.php:780
+msgid "Huh?"
+msgstr "Ha?"
+
+#: menu/configuration.php:776
+msgid "Also count pages/posts of different types as duplicates"
+msgstr "Juga menghitung halaman/post dari tipe-tipe yang berbeda sebagai duplikat"
+
+#: menu/configuration.php:775
+msgid "Only count pages/posts of the same type as duplicates"
+msgstr "Hanya menghitung halaman/post tipe yang sama sebagai duplikat"
+
+#: menu/configuration.php:768
+msgid "...need others? <a href=\"mailto:hi@copy-delete-posts.com\" target=\"_blank\">Suggest them!</a>"
+msgstr "...perlu lainnya? <a href=\"mailto:hi@copy-delete-posts.com\" target=\"_blank\">Usulkan!</a>"
+
+#: menu/configuration.php:766
+msgid "Word count"
+msgstr "Hitung kata"
+
+#: menu/configuration.php:764
+msgid "Excerpt (<span class=\"cdp-no-empty-text\"><b>including</b> empty</span>)"
+msgstr "Kutipan (<span class=\"cdp-no-empty-text\"><b>termasuk</b> kosong</span>)"
+
+#: menu/configuration.php:757
+msgid "When does “yes” make sense here?"
+msgstr "Kapan \"ya\" masuk akal di sini?"
+
+#: menu/configuration.php:757
+msgid "The copies you created may have been given different titles automatically (according to the rules in <a href=\"#\" class=\"cdp-go-to-names-chapter\">this section</a>) and therefore would not count as duplicates as they have different titles.<br /><br />To remedy this, you can select “Yes” here so that those posts/pages also get considered as duplicates."
+msgstr "Salinan yang Anda buat mungkin akan secara otomatis diberi judul yang berbeda (menurut aturan dalam <a href=\"#\" class=\"cdp-go-to-names-chapter\">bagian ini</a>) sehingga tidak akan dihitung sebagai duplikat karena memiliki judul yang berbeda.<br /><br />Untuk memperbaiki ini, Anda dapat memilih \"Ya\" di sini sehingga post/halaman tersebut juga dianggap sebagai duplikat."
+
+#: menu/configuration.php:756
+msgid "Yes"
+msgstr "Ya"
+
+#: menu/configuration.php:755
+msgid "No"
+msgstr "Tidak"
+
+#: menu/configuration.php:752
+msgid "Do you want to consider different titles still to be identical if a) the copied posts/pages<br />were created by this plugin and b) they were not modified thereafter?"
+msgstr "Apakah Anda ingin menganggap judul yang berbeda sebagai identik jika a) post/halaman salinan<br />dibuat oleh plugin ini dan b) tidak diubah setelah itu?"
+
+#: menu/configuration.php:747
+msgid "Slugs are never 100% identical (i.e. Wordpress adds a counter automatically to ensure they are unique). The rule to only have them at least 85% identical does the job fine (you can see after the scan which posts are considered identical)."
+msgstr "Slug tidak pernah 100% identik (yaitu WordPress otomatis menambahkan penghitung untuk memastikan keunikannya). Aturan untuk hanya membolehkan paling sedikit 85% identik bekerja dengan baik (Anda dapat melihat setelah pemindaian di mana beberapa post dianggap identik). "
+
+#: menu/configuration.php:747
+msgid "Similar slug"
+msgstr "Slug yang serupa"
+
+#: menu/configuration.php:744
+msgid "(show more options)"
+msgstr "(tampilkan lebih banyak pilihan)"
+
+#: menu/configuration.php:736
+msgid "Count them as duplicates if they are identical with respect to <u class=\"cdp-f-w-bold\">all</u> of the below..."
+msgstr "Anggap sebagai duplikat jika mereka identik mengacu pada <u class=\"cdp-f-w-bold\">semua</u> dari di bawah ini..."
+
+#: menu/configuration.php:731
+msgid "Custom posts"
+msgstr "Post khusus"
+
+#: menu/configuration.php:726
+msgid "Scan for duplicates in..."
+msgstr "Pindai duplikat dalam..."
+
+#: menu/configuration.php:709
+msgid "Go premium now"
+msgstr "Ubah premium sekarang"
+
+#: menu/configuration.php:702
+msgid ""
+"And: you can also use this feature for any other redirections you may need\n"
+"                      (not only redirects from deleted posts/pages)!"
+msgstr ""
+"Dan: Anda juga dapat menggunakan fitur ini untuk pengalihan lainnya yang mungkin Anda perlukan\n"
+"                      (tidak hanya pengalihan dari post/halaman yang dihapus)!"
+
+#: menu/configuration.php:699
+msgid "This isn’t just good for your visitors, but also for SEO: the “link juice” from your old (deleted) articles will be forwarded to the versions you keep, helping you to rank higher in search engines."
+msgstr "Ini tidak hanya bagus untuk pengunjung Anda, tetapi juga untuk SEO: \"jus tautan\" dari artikel lama (dihapus) akan diteruskan ke versi yang Anda simpan, membantu Anda memberi peringkat lebih tinggi dalam mesin pencari. "
+
+#: menu/configuration.php:696
+msgid "As part of the <span class=\"cdp-green\">premium plugin</span> you can enable redirects, so that the URLs of your deleted posts/pages automatically take visitors to the version which you decided to keep."
+msgstr "Sebagai bagian dari <span class=\"cdp-green\">plugin premium</span> Anda dapat mengaktifkan pengalihan, sehingga URL dari post/halaman Anda yang dihapus secara otomatis membawa pengunjung ke versi yang Anda pertahankan. "
+
+#: menu/configuration.php:683
+msgid "Redirection"
+msgstr "Pengalihan"
+
+#: menu/configuration.php:680
+msgid "Automatic Cleanup"
+msgstr "Pembersihan Otomatis"
+
+#: menu/configuration.php:677
+msgid "Manual Cleanup"
+msgstr "Pembersihan Manual"
+
+#: menu/configuration.php:672
+msgid ""
+"Before you delete anything here (which cannot be undone!) we <b class=\"cdp-f-w-bold\">strongly suggest</b><br />\n"
+"                that you create a backup, for example with <a href=\"https://wordpress.org/plugins/backup-backup/\" target=\"_blank\">this plugin</a>"
+msgstr ""
+"Sebelum Anda menghapus apapun di sini (yang tidak bisa dibatalkan!) kami <b class=\"cdp-f-w-bold\">sangat menganjurkan</b><br />\n"
+"                Anda membuat pencadangan, misalnya dengan <a href=\"https://wordpress.org/plugins/wp-clone-by-wp-academy/\" target=\"_blank\">plugin ini</a>"
+
+#: menu/configuration.php:664
+msgid "Delete duplicate posts/pages"
+msgstr "Hapus post/halaman duplikat"
+
+#: menu/configuration.php:657
+msgid "...and after your copy frenzy, you may need to…"
+msgstr "...dan setelah salinan Anda yang gila-gilaan, Anda mungkin perlu..."
+
+#: menu/configuration.php:640
+msgid "Show post export & import buttons"
+msgstr "Tampilkan tombol ekspor & impor"
+
+#: menu/configuration.php:628
+msgid "Hide copy tooltip on hover and only show the button"
+msgstr "Sembunyikan salin tooltip pada tempatnya dan hanya tampilkan tombol"
+
+#: menu/configuration.php:623
+msgid "Additional features"
+msgstr "Fitur tambahan"
+
+#: menu/configuration.php:584
+msgid "If checked, you will see a reference to the original post/page (on the copied version)."
+msgstr "Jika diperiksa, Anda akan melihat referensi ke post/halaman orisinal (pada versi salinan)."
+
+#: menu/configuration.php:583
+msgid "Show reference to original item?"
+msgstr "Tampilkan referensi ke item orisinal?"
+
+#: menu/configuration.php:581
+msgid "Gutenberg editor"
+msgstr "Editor Gutenberg"
+
+#: menu/configuration.php:580
+msgid "Bulk actions menu"
+msgstr "Menu tindakan massal"
+
+#: menu/configuration.php:578 menu/configuration.php:587
+msgid "Edit screens"
+msgstr "Edit layar"
+
+#: menu/configuration.php:577 menu/configuration.php:586
+msgid "Posts/pages lists"
+msgstr "Daftar post/laman"
+
+#: menu/configuration.php:575
+msgid "Display copy option on..."
+msgstr "Tampilkan opsi salin pada..."
+
+#: menu/configuration.php:573
+msgid "Custom posts types"
+msgstr "Tipe post khusus"
+
+#: menu/configuration.php:572 menu/configuration.php:729
+msgid "Posts"
+msgstr "Post"
+
+#: menu/configuration.php:571 menu/configuration.php:730
+msgid "Pages"
+msgstr "Laman"
+
+#: menu/configuration.php:569
+msgid "Content types which can be copied"
+msgstr "Tipe konten yang dapat disalin"
+
+#: menu/configuration.php:549
+msgid "Which user role(s) should be able to copy & delete? <i style=\"color: gray\">– The role also must have access to the dashboard.</i>"
+msgstr "Peran pengguna yang mana seharusnya yang dapat menyalin & menghapus? <i style=\"color: gray\">– Peran tersebut juga harus memiliki akses ke dasbor.</i>"
+
+#: menu/configuration.php:548
+msgid "User level permissions"
+msgstr "Izin level pengguna"
+
+#: menu/configuration.php:544
+msgid "ALWAYS change the type when copied (posts will become pages, pages will become posts)"
+msgstr "SELALU mengubah tipe ketika disalin (post akan menjadi laman, laman akan menjadi post)"
+
+#: menu/configuration.php:543
+msgid "Copies will be the same type as the original"
+msgstr "Salinan akan menjadi tipe yang sama dengan aslinya"
+
+#: menu/configuration.php:538
+msgid "However, if you want it as a <b class=\"cdp-f-w-bold\">default setting option</b>, then please select it below: "
+msgstr "Namun, jika Anda menginginkannya sebagai <b class=\"cdp-f-w-bold\">opsi pengaturan standar</b>, maka silakan pilih di bawah ini:"
+
+#: menu/configuration.php:537
+msgid "If you want to make a page out of a post, or vice versa, then you can do this on a <b class=\"cdp-f-w-bold\">case by case basis</b> if you select the option “Define it specifically for this case” in the copy-tooltip, and then select this option on the following screen in the tooltip."
+msgstr "Jika Anda ingin membuat laman dari post, atau sebaliknya, maka Anda dapat melakukannya pada <b class=\"cdp-f-w-bold\">basis kasus per kasus</b> jika Anda memilih opsi “Definisikan khususnya untuk kasus ini” di tooltip-salin, lalu pilih opsi ini di layar berikutnya pada tooltip."
+
+#: menu/configuration.php:536
+msgid "By default, the type of what you copy does not change, i.e. if you copy a post the new version will also be a post, and the same for pages."
+msgstr "Standarnya, tipe dari apa yang Anda salin tidak berubah, yaitu jika Anda menyalin sebuah post maka versi baru juga akan menjadi post, dan demikian juga dengan laman. "
+
+#: menu/configuration.php:532
+msgid "Pages vs. Posts converter"
+msgstr "Pengubah Laman vs Post"
+
+#: menu/configuration.php:528
+msgid "If you created multiple copies in one go, you’ll be taken to the first copy."
+msgstr "Jika Anda membuat beberapa salinan sekaligus, Anda akan dibawa ke salinan pertama."
+
+#: menu/configuration.php:525
+msgid "Decide on a case-by-case basis (adds new button on copy screen)"
+msgstr "Putuskan pada basis kasus-per-kasus (menambah tombol baru pada layar salin)"
+
+#: menu/configuration.php:524
+msgid "Take me to the edit-page of the created copy"
+msgstr "Bawa saya ke laman-edit dari salinan yang dibuat"
+
+#: menu/configuration.php:523
+msgid "Leave me where I was"
+msgstr "Tinggalkan saya di tempat sebelumnya"
+
+#: menu/configuration.php:519
+msgid "Navigation after copying"
+msgstr "Navigasi setelah menyalin"
+
+#: menu/configuration.php:513
+msgid "<b class=\"cdp-ff-b4\">Other</b> options"
+msgstr "Opsi <b class=\"cdp-ff-b4\">Lainnya</b>"
+
+#: menu/configuration.php:497
+msgid "If you make multiple copies in one go, use the Counter-option as otherwise some copies will have the same name."
+msgstr "Jika Anda membuat beberapa salinan sekaligus, gunakan opsi-Penghitung karena jika tidak maka beberapa salinan akan memiliki nama yang sama. "
+
+#: menu/configuration.php:496
+msgid "If you’re not of the drag & droppy-type, you can also enter shortcodes [Counter], [CurrentDate] and [CurrentTime]."
+msgstr "Jika Anda bukan tipe yang menyeret & menjatuhkan, Anda juga dapat memasukkan shortcode [Penghitung], [TanggalSekarang] dan [WaktuSekarang]."
+
+#: menu/configuration.php:495
+msgid "You can also type tailored text into the fields above."
+msgstr "Anda juga dapat mengetikkan teks yang tertempel ke dalam bidang di atas."
+
+#: menu/configuration.php:491
+msgid "Adds the <b class=\"cdp-f-w-semi-bold\">current time</b> in hh:mm:ss format"
+msgstr "Tambahkan <b class=\"cdp-f-w-semi-bold\">waktu sekarang</b> dalam format jam:menit:detik"
+
+#: menu/configuration.php:489
+msgid "CurrentTime"
+msgstr "WaktuSekarang"
+
+#: menu/configuration.php:482
+msgid "format."
+msgstr "format."
+
+#: menu/configuration.php:479 menu/modal.php:59 menu/tooltips.php:121
+msgid "Custom"
+msgstr "Khusus"
+
+#: menu/configuration.php:478
+msgid "dd/mm/yyyy"
+msgstr "tanggal/bulan/tahun"
+
+#: menu/configuration.php:477
+msgid "mm/dd/yyyy"
+msgstr "bulan/tanggal/tahun"
+
+#: menu/configuration.php:474
+msgid "Adds the <b class=\"cdp-f-w-semi-bold\">current date</b> in"
+msgstr "Tambahkan <b class=\"cdp-f-w-semi-bold\">tanggal sekarang</b> dalam"
+
+#: menu/configuration.php:469
+msgid "CurrentDate"
+msgstr "TanggalSekarang"
+
+#: menu/configuration.php:465
+msgid "Adds an <b class=\"cdp-f-w-semi-bold\">incremental counter</b> (starting with “2”)"
+msgstr "Tambahkan <b class=\"cdp-f-w-semi-bold\">penghitung inkremental</b> (mulai dengan “2”)"
+
+#: menu/configuration.php:463
+msgid "Counter"
+msgstr "Penghitung"
+
+#: menu/configuration.php:459
+msgid "Drag & drop the automatic elements into the Prefix/Suffix fields to add them."
+msgstr "Seret & jatuhkan elemen otomatis ke dalam bidang Awalan/Akhiran untuk menambahkan."
+
+#: menu/configuration.php:452
+msgid "Example based on current selections:"
+msgstr "Contoh berdasarkan pilihan sekarang:"
+
+#: menu/configuration.php:443
+msgid "Change to blank"
+msgstr "Ubah ke kosong"
+
+#: menu/configuration.php:434
+msgid "Suffix"
+msgstr "Akhiran"
+
+#: menu/configuration.php:432
+msgid "Prefix"
+msgstr "Awalan"
+
+#: menu/configuration.php:428
+msgid "Build your preferred naming logic for the copies:"
+msgstr "Buat logika penamaan pilihan Anda untuk salinan:"
+
+#: menu/configuration.php:422
+msgid "What <b class=\"cdp-ff-b4\">name(s)</b> should the copies have?"
+msgstr "Apa <b class=\"cdp-ff-b4\">name(s)</b> yang seharusnya dimiliki salinan?"
+
+#: menu/configuration.php:411 menu/configuration.php:502
+#: menu/configuration.php:650 menu/configuration.php:973
+msgid "Close section"
+msgstr "Tutup bagian"
+
+#: menu/configuration.php:409 menu/configuration.php:500
+#: menu/configuration.php:648
+msgid "Save"
+msgstr "Simpan"
+
+#: menu/configuration.php:405
+msgid ""
+"Do you know anything else you want to have copied (e.g. data added by a different plugin)? <br />\n"
+"                Please <a href=\"mailto:hi@copy-delete-posts.com\" target=\"_blank\"><span class=\"cdp-green\">tell us about it</span></a>, we always want to further improve this plugin! :) "
+msgstr ""
+"Apakah Anda tahu hal lain yang Anda inginkan untuk disalin (misalnya data yang ditambahkan oleh plugin berbeda)? <br />\n"
+"               Silakan <a href=\"mailto:hi@copy-delete-posts.com\" target=\"_blank\"><span class=\"cdp-green\">beri tahu kami</span></a>, kami selalu ingin mengembangkan lagi plugin ini! :) "
+
+#: menu/configuration.php:398
+msgid "…the same settings from the <a href=\"https://wordpress.org/plugins/wordpress-seo/\" target=\"_blank\"><span class=\"cdp-green\">Yoast SEO plugin</span></a> as the original."
+msgstr "...pengaturan yang sama dari <a href=\"https://wordpress.org/plugins/wordpress-seo/\" target=\"_blank\"><span class=\"cdp-green\">plugin Yoast SEO</span></a> sebagai aslinya."
+
+#: menu/configuration.php:393
+msgid "Yoast SEO Settings"
+msgstr "Pengaturan Yoast SEO"
+
+#: menu/configuration.php:381
+msgid "…the same settings from the <a href=\"https://www.ultimatelysocial.com/usm-premium/\" target=\"_blank\"><span class=\"cdp-green\">Ultimate Social Media plugin</span></a> as the original."
+msgstr "…pengaturan yang sama dari <a href=\"https://www.ultimatelysocial.com/usm-premium/\" target=\"_blank\"><span class=\"cdp-green\">plugin Ultimate Social Media</span></a> sebagai aslinya."
+
+#: menu/configuration.php:376
+msgid "Ultimate Social Media Settings"
+msgstr "Pengaturan Ultimate Social Media"
+
+#: menu/configuration.php:365 menu/configuration.php:382
+#: menu/configuration.php:399
+msgid "…get empty settings."
+msgstr "…dapatkan pengaturan kosong."
+
+#: menu/configuration.php:364
+msgid "…the same settings from the <a href=\"https://wordpress.org/plugins/woocommerce/\" target=\"_blank\"><span class=\"cdp-green\">WooCommerce plugin</span></a> as the original."
+msgstr "…pengaturan yang sama dari <a href=\"https://wordpress.org/plugins/woocommerce/\" target=\"_blank\"><span class=\"cdp-green\">plugin WooCommerce</span></a> sebagai aslinya."
+
+#: menu/configuration.php:359
+msgid "WooCommerce Settings"
+msgstr "Pengaturan WooCommerce"
+
+#: menu/configuration.php:349
+msgid "…copy only required post/page metadata."
+msgstr "…salinan hanya membutuhkan metadata post/laman."
+
+#: menu/configuration.php:348
+msgid "…clone all metadata tags assigned to post/page."
+msgstr "…kloning semua tag metadata yang dilekatkan pada post/laman."
+
+#: menu/configuration.php:330 menu/modal.php:162
+msgid "Link categories"
+msgstr "Kategori tautan"
+
+#: menu/configuration.php:327 menu/configuration.php:332
+msgid "…be without private taxonomy."
+msgstr "…tanpa taksonomi privat."
+
+#: menu/configuration.php:326 menu/configuration.php:331
+msgid "…get this private taxonomy from the original."
+msgstr "…dapatkan taksonomi privat ini dari aslinya."
+
+#: menu/configuration.php:321 menu/modal.php:158
+msgid "Navigation Menus"
+msgstr "Menu Navigasi"
+
+#: menu/configuration.php:311
+msgid "…be without custom taxonomy."
+msgstr "…tanpa taksonomi khusus."
+
+#: menu/configuration.php:310
+msgid "…get all custom taxonomy from the original."
+msgstr "…dapatkan semua taksonomi khusus dari aslinya."
+
+#: menu/configuration.php:309 menu/modal.php:154 menu/tooltips.php:215
+msgid "Taxonomies"
+msgstr "Taksonomi"
+
+#: menu/configuration.php:306
+msgid "…be without any tags."
+msgstr "…tanpa tag apapun."
+
+#: menu/configuration.php:305
+msgid "…get all tags of the original post."
+msgstr "…dapatkan semua tag dari post aslinya."
+
+#: menu/configuration.php:304 menu/modal.php:150 menu/tooltips.php:211
+msgid "Tags"
+msgstr "Tag"
+
+#: menu/configuration.php:301
+msgid "…be Uncategorized, no categories will be copied."
+msgstr "…Tanpa kategori, tidak ada kategori yang akan disalin."
+
+#: menu/configuration.php:300
+msgid "…get all categories from the original post."
+msgstr "…dapatkan semua kategori dari post aslinya."
+
+#: menu/configuration.php:299 menu/modal.php:144 menu/tooltips.php:205
+msgid "Categories"
+msgstr "Kategori"
+
+#: menu/configuration.php:296
+msgid "…get the menu order set to default (0)."
+msgstr "…atur susunan menu menjadi standar (0)."
+
+#: menu/configuration.php:295
+msgid "…get the <a href=\"https://wordpress.stackexchange.com/questions/25202/how-to-change-order-of-menu-items\" target=\"_blank\"><span class=\"cdp-green\">menu order</span></a> from the original."
+msgstr "…dapatkan <a href=\"https://wordpress.stackexchange.com/questions/25202/how-to-change-order-of-menu-items\" target=\"_blank\"><span class=\"cdp-green\">susunan menu</span></a> dari aslinya."
+
+#: menu/configuration.php:294 menu/modal.php:136 menu/tooltips.php:197
+msgid "Menu order"
+msgstr "Susunan menu"
+
+#: menu/configuration.php:291
+msgid "…get no comments from the original."
+msgstr "…dapatkan tanpa komentar dari aslinya."
+
+#: menu/configuration.php:290
+msgid "…get all comments from the original."
+msgstr "…dapatkan semua komentar dari aslinya."
+
+#: menu/configuration.php:289 menu/modal.php:132 menu/tooltips.php:193
+msgid "Comments"
+msgstr "Komentar"
+
+#: menu/configuration.php:286
+msgid "…not get their child pages copied along (if the page is a parent)."
+msgstr "…tidak sekaligus menyalin laman child page (jika laman adalah parent)."
+
+#: menu/configuration.php:285
+msgid "…get their <a href=\"https://phppot.com/wordpress/how-to-create-a-child-page-in-wordpress/\" target=\"_blank\"><span class=\"cdp-green\">child pages</span></a> copied as well, with all current settings applied to child-duplicates (if the page is a parent)."
+msgstr "…dapatkan salinan <a href=\"https://phppot.com/wordpress/how-to-create-a-child-page-in-wordpress/\" target=\"_blank\"><span class=\"cdp-green\">child pages</span></a> juga, dengan semua pengaturan terkini yang diterapkan pada duplikat-child (jika laman adalah parent)."
+
+#: menu/configuration.php:284 menu/modal.php:126 menu/tooltips.php:187
+msgid "Children"
+msgstr "Children"
+
+#: menu/configuration.php:281
+msgid "…get existing attachments from the original."
+msgstr "…dapatkan lampiran yang ada dari aslinya."
+
+#: menu/configuration.php:280
+msgid "…create new <a href=\"https://wordpress.org/support/article/using-image-and-file-attachments/#attachment-to-a-post\" target=\"_blank\"><span class=\"cdp-green\">attachments</span></a> (duplicates in Media Library) as well. <i>Recommended only for Multisites.</i>"
+msgstr "…buat juga <a href=\"https://wordpress.org/support/article/using-image-and-file-attachments/#attachment-to-a-post\" target=\"_blank\"><span class=\"cdp-green\">lampiran</span></a> (duplikat di Media Library) yang baru. <i>Hanya direkomendasikan untuk Multisitus.</i>"
+
+#: menu/configuration.php:279 menu/modal.php:140 menu/tooltips.php:201
+msgid "Attachments"
+msgstr "Lampiran"
+
+#: menu/configuration.php:276
+msgid "…get no password."
+msgstr "…dapatkan tanpa kata sandi."
+
+#: menu/configuration.php:275
+msgid "…get the same <a href=\"https://wordpress.org/support/article/using-password-protection/\" target=\"_blank\"><span class=\"cdp-green\">password</span></a> as original."
+msgstr "…dapatkan <a href=\"https://wordpress.org/support/article/using-password-protection/\" target=\"_blank\"><span class=\"cdp-green\">kata sandi</span></a> yang sama dengan aslinya."
+
+#: menu/configuration.php:274 menu/modal.php:122 menu/tooltips.php:183
+msgid "Password"
+msgstr "Kata sandi"
+
+#: menu/configuration.php:271
+msgid "…get the user that is duplicating as an author."
+msgstr "…dapatkan pengguna yang menduplikasi sebagai penulis."
+
+#: menu/configuration.php:270
+msgid "…get the same author as original."
+msgstr "…dapatkan penulis yang sama dengan aslinya."
+
+#: menu/configuration.php:269 menu/modal.php:118 menu/tooltips.php:179
+msgid "Author"
+msgstr "Penulis"
+
+#: menu/configuration.php:266
+msgid "…get the standard post format."
+msgstr "…dapatkan format post standar."
+
+#: menu/configuration.php:265
+msgid "…get the same <a href=\"https://wordpress.org/support/article/post-formats/\" target=\"_blank\"><span class=\"cdp-green\">post format</span></a> as original."
+msgstr "…dapatkan <a href=\"https://wordpress.org/support/article/post-formats/\" target=\"_blank\"><span class=\"cdp-green\">format post</span></a> yang sama dengan aslinya."
+
+#: menu/configuration.php:264 menu/modal.php:114 menu/tooltips.php:175
+msgid "Format"
+msgstr "Format"
+
+#: menu/configuration.php:261
+msgid "…get the default page template."
+msgstr "…dapatkan template laman standar."
+
+#: menu/configuration.php:260
+msgid "…get the same page <a href=\"https://wpapprentice.com/blog/wordpress-theme-vs-template/\" target=\"_blank\"><span class=\"cdp-green\">template</span></a> as original."
+msgstr "…dapatkan laman yang sama <a href=\"https://wpapprentice.com/blog/wordpress-theme-vs-template/\" target=\"_blank\"><span class=\"cdp-green\">template</span></a> dengan aslinya."
+
+#: menu/configuration.php:259 menu/modal.php:108 menu/tooltips.php:169
+msgid "Template"
+msgstr "Template"
+
+#: menu/configuration.php:256
+msgid "…get no featured image."
+msgstr "...dapatkan tanpa gambar unggulan."
+
+#: menu/configuration.php:255
+msgid "…it will set the same <a href=\"https://firstsiteguide.com/wordpress-featured-image/\" target=\"_blank\"><span class=\"cdp-green\">featured image</span></a> as the original."
+msgstr "…ini akan mengatur <a href=\"https://firstsiteguide.com/wordpress-featured-image/\" target=\"_blank\"><span class=\"cdp-green\">gambar unggulan</span></a> yang sama dengan aslinya."
+
+#: menu/configuration.php:254
+msgid "Featured image"
+msgstr "Gambar unggulan"
+
+#: menu/configuration.php:251
+msgid "…get no content (be completely blank)."
+msgstr "…dapatkan tanpa konten (sepenuhnya kosong)."
+
+#: menu/configuration.php:250
+msgid "…get all the content (text, images, videos and other elements/blocks) from the original."
+msgstr "…dapatlan semua konten (teks, gambar, video dan elemen/blok lainnya) dari aslinya."
+
+#: menu/configuration.php:249 menu/modal.php:100 menu/tooltips.php:161
+msgid "Content"
+msgstr "Konten"
+
+#: menu/configuration.php:246
+msgid "…get an empty <i>custom</i> excerpt (and default to taking the first 55 words of the post)."
+msgstr "…dapatkan kutipan <i>khusus</i> kosong (dan standar untuk mengambil 55 kata pertama dari post)."
+
+#: menu/configuration.php:245
+msgid "…get the custom <a href=\"https://wordpress.org/support/article/excerpt/\" target=\"_blank\"><span class=\"cdp-green\">excerpt</span></a> (post/page summary) of the original (if the original had any)."
+msgstr "…dapatkan (ringkasan post/laman) khusus <a href=\"https://wordpress.org/support/article/excerpt/\" target=\"_blank\"><span class=\"cdp-green\">kutipan</span></a> dari aslinya (jika yang asli memilikinya)."
+
+#: menu/configuration.php:244 menu/modal.php:96 menu/tooltips.php:157
+msgid "Excerpt"
+msgstr "Kutipan"
+
+#: menu/configuration.php:241
+msgid "…get a blank slug, unless the page is published, then it will generate it automatically."
+msgstr "...dapatkan slug kosong, kecuali laman telah dipublikasikan, lalu ini akan menghasilkannya secara otomatis."
+
+#: menu/configuration.php:240
+msgid "…get the same <a href=\"https://kinsta.com/knowledgebase/wordpress-slug/\" target=\"_blank\"><span class=\"cdp-green\">slug</span></a> of the original. (However after publishing it will give it automatically a new slug because 2 pages cannot be on the same URL)."
+msgstr "…dapatkan <a href=\"https://kinsta.com/knowledgebase/wordpress-slug/\" target=\"_blank\"><span class=\"cdp-green\">slug</span></a> yang sama dengan aslinya. (Namun setelah dipublikasikan ini akan secara otomatis memberinya slug baru karena 2 laman tidak boleh berada pada URL yang sama)."
+
+#: menu/configuration.php:239 menu/modal.php:90 menu/tooltips.php:151
+msgid "Slug"
+msgstr "Slug"
+
+#: menu/configuration.php:236
+msgid "…get the status “Draft”."
+msgstr "...buat status \"Draft\"."
+
+#: menu/configuration.php:235
+msgid "…get status of original article (which can be “published” or “deleted” etc.)"
+msgstr "...dapatkan status dari artikel asli (yang dapat \"dipublikasikan\" atau \"dihapus\" dan seterusnya.) "
+
+#: menu/configuration.php:234 menu/modal.php:86 menu/tooltips.php:147
+msgid "Status"
+msgstr "Status"
+
+#: menu/configuration.php:231
+msgid "…get the date & time at time of copying. "
+msgstr "...dapatkan tanggal & waktu pada saat menyalin."
+
+#: menu/configuration.php:230
+msgid "…get the same creation date & time as the original."
+msgstr "...dapatkan tanggal & waktu yang sama dengan aslinya."
+
+#: menu/configuration.php:229 menu/modal.php:82 menu/tooltips.php:143
+msgid "Date"
+msgstr "Tanggal"
+
+#: menu/configuration.php:226
+msgid "…be titled “Untitled”."
+msgstr "...diberi judul \"Tanpa Judul\"."
+
+#: menu/configuration.php:225
+msgid "…get the title as defined in the <a href=\"#\" class=\"cdp-go-to-names-chapter\"><span class=\"cdp-green\">next section</span></a>."
+msgstr "...dapatkan judul sebagaimana ditentukan dalam <a href=\"#\" class=\"cdp-go-to-names-chapter\"><span class=\"cdp-green\">bagian berikutnya</span></a>."
+
+#: menu/configuration.php:224 menu/configuration.php:741
+#: menu/configuration.php:846 menu/modal.php:78 menu/tooltips.php:139
+msgid "Title"
+msgstr "Judul"
+
+#: menu/configuration.php:219
+msgid "<b>If <u class=\"cdp-f-w-bold\">un</u>checked</b> copies will..."
+msgstr "<b>Jika <u class=\"cdp-f-w-bold\">tanpa</u>diperiksa</b> salinan akan..."
+
+#: menu/configuration.php:218
+msgid "<b>If checked</b> copies will..."
+msgstr "<b>Jika diperiksa</b> salinan akan..."
+
+#: menu/configuration.php:208
+msgid "Which <b class=\"cdp-ff-b4\">elements</b> shall be copied?"
+msgstr "Mana <b class=\"cdp-ff-b4\">element</b> yang perlu disalin?"
+
+#: menu/configuration.php:196
+msgid "+ Add / manage / import / export settings"
+msgstr "+ Pengaturan tambah / kelola / impor / ekspor"
+
+#: menu/configuration.php:189
+msgid "settings"
+msgstr "pengaturan"
+
+#: menu/configuration.php:185
+msgid "Add new"
+msgstr "Tambah baru"
+
+#: menu/configuration.php:184 menu/modal.php:67 menu/tooltips.php:85
+#: menu/tooltips.php:129
+msgid "Default"
+msgstr "Standar"
+
+#: menu/configuration.php:166
+msgid "Below are your"
+msgstr "Di bawah ini adalah milik Anda"
+
+#: menu/configuration.php:155
+msgid "Don't show this intro – never again!"
+msgstr "Jangan tampilkan intro ini – jangan pernah lagi!"
+
+#: menu/configuration.php:151
+msgid "Got it, close intro!"
+msgstr "Mengerti, tutup intro!"
+
+#: menu/configuration.php:149
+msgid "…and you can also <b>delete duplicate</b> posts easily, see below :)"
+msgstr "…dan Anda juga dapat <b>hapus duplikat</b> post dengan mudah, lihat di bawah ini :)"
+
+#: menu/configuration.php:143 menu/configuration.php:579
+msgid "Admin bar"
+msgstr "Bar admin"
+
+#: menu/configuration.php:137
+msgid "Edit screen"
+msgstr "Edit layar"
+
+#: menu/configuration.php:131
+msgid "List of posts/pages"
+msgstr "Daftar post/laman"
+
+#: menu/configuration.php:128
+msgid "You can now easily copy posts & pages in various areas:"
+msgstr "Anda sekarang dapat dengan mudah menyalin post & laman di beragam area: "
+
+#: menu/configuration.php:122
+msgid "Show intro"
+msgstr "Tampilkan intro"
+
+#: menu/configuration.php:119
+msgid "Welcome to Copy & Delete Posts!"
+msgstr "Selamat datang di Salin & Hapus Post!"
+
+#: menu/configuration.php:111
+msgid "Loading..."
+msgstr "Membuka..."
+
+#: copy-delete-posts.php:1059
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: copy-delete-posts.php:999
+msgid "post"
+msgstr "post"
+
+#: copy-delete-posts.php:999
+msgid "this"
+msgstr "ini"
+
+#: copy-delete-posts.php:999
+msgid "Copy of"
+msgstr "Salinan dari"
+
+#: copy-delete-posts.php:828
+msgid "There was an error with this notification."
+msgstr "Terdapat kesalahan dengan notifikasi ini."
+
+#: copy-delete-posts.php:827
+msgid "It will hide this banner just for now."
+msgstr "Ini akan menghapus spanduk ini hanya untuk sekarang."
+
+#: copy-delete-posts.php:826
+msgid "Premium"
+msgstr "Premium"
+
+#: copy-delete-posts.php:824
+msgid "Plugin has been installed successfully, feel free to check those awesome features!"
+msgstr "Plugin telah berhasil diinstal, silakan memeriksa fitur-fiturnya yang mengagumkan! "
+
+#: copy-delete-posts.php:822 copy-delete-posts.php:823
+msgid "There was an error and we couldn't kill the task."
+msgstr "Terdapat kesalahan dan kami tidak dapat mematikan tugas."
+
+#: copy-delete-posts.php:821
+msgid "The task has been killed"
+msgstr "Tugas telah dimatikan"
+
+#: copy-delete-posts.php:819 copy-delete-posts.php:820
+msgid "There was an error and we couldn't hide the task."
+msgstr "Terdapat kesalahan dan kami tidak dapat menyembunyikan tugas."
+
+#: copy-delete-posts.php:818
+msgid "The task has been hidden"
+msgstr "Tugas telah disembunyikan"
+
+#: copy-delete-posts.php:816 copy-delete-posts.php:817
+msgid "We couldn't update task list, please try again later or kill tasks individualy."
+msgstr "Kami tidak dapat memperbarui daftar tugas, silakan coba lagi nanti atau matikan tugas secara individual."
+
+#: copy-delete-posts.php:815
+msgid "Tasks cleared!"
+msgstr "Tugas dihapus!"
+
+#: copy-delete-posts.php:814
+msgid "This banner will not appear again, if any feature is missing you can ask for it on our support forum!"
+msgstr "Spanduk ini tidak akan muncul lagi, jika ada fitur yang hilang Anda dapat memintanya di forum bantuan kami!"
+
+#: copy-delete-posts.php:813
+msgid "Alright! We will ask you again in 14 days!"
+msgstr "Baiklah! Kami akan kembali menanyai Anda dalam 14 hari!"
+
+#: copy-delete-posts.php:811 copy-delete-posts.php:812
+msgid "Thank you very much for the review, this banner will not appear again!"
+msgstr "Terima kasih banyak atas ulasannya, spanduk ini tidak akan muncul lagi!"
+
+#: copy-delete-posts.php:810
+msgid "Cannot send dismiss request. Are you connected to the internet?"
+msgstr "Tidak dapat mengirim permintaan penghapusan. Apakah Anda tersambung ke internet?"
+
+#: copy-delete-posts.php:809
+msgid "There was an issue while dismissing banner, please do it next time again."
+msgstr "Terdapat kendala saat menghapus spanduk, silakan lakukan lagi lain waktu."
+
+#: copy-delete-posts.php:744
+msgid "Manual Cleanup removed "
+msgstr "Pembersihan Manual dihapus"
+
+#: copy-delete-posts.php:689
+msgid "Copy this post"
+msgstr "Salin post ini"
+
+#: copy-delete-posts.php:387 copy-delete-posts.php:417
+msgid "test"
+msgstr "tes"
+
+#: copy-delete-posts.php:359
+msgid "Copy & Delete Posts Menu"
+msgstr "Menu Salin & Hapus Post"
+
+#: copy-delete-posts.php:357 copy-delete-posts.php:359
+msgid "<span id=\"cdp-menu\">Copy & Delete Posts</span>"
+msgstr "<span id=\"cdp-menu\">Salin & Hapus Post</span>"
+
+#: copy-delete-posts.php:329 copy-delete-posts.php:515
+msgid "Copy this"
+msgstr "Salin ini"
+
+#: copy-delete-posts.php:260 copy-delete-posts.php:387
+#: copy-delete-posts.php:417 copy-delete-posts.php:441
+#: copy-delete-posts.php:463 menu/modal.php:207 menu/tooltips.php:268
+msgid "Copy"
+msgstr "Salin"
+
+#: copy-delete-posts.php:905
+msgid "Please select basic settings for this copy."
+msgstr "Mohon pilih pengaturan dasar untuk salinan ini."
+
+#: copy-delete-posts.php:904
+msgid "Please select at least one row to copy and try again."
+msgstr "Mohon pilih setidaknya satu baris untuk menyalin dan coba lagi."
+
+#: copy-delete-posts.php:903
+msgid "Please select at least one row to copy."
+msgstr "Mohon pilih setidaknya satu baris untuk menyalin."
+
+#: copy-delete-posts.php:896
+msgid "–––––––––––––- END OF THE DEBUG OUTPUT –––––––––––––- "
+msgstr "–––––––––––––- AKHIR DARI OUTPUT DEBUG –––––––––––––- "
+
+#: copy-delete-posts.php:895
+msgid "You're crazy! – Here is the output:"
+msgstr "Anda gila! – Ini outputnya:"
+
+#: copy-delete-posts.php:894
+msgid "Are you REALLY sure?"
+msgstr "Apakah Anda BENAR-BENAR yakin?"
+
+#: copy-delete-posts.php:893
+msgid "This post is a duplicate of"
+msgstr "Post ini adalah duplikat dari"
+
+#: copy-delete-posts.php:892
+msgid "Change the type of this copy <span class=\"cdp-premium-icon cdp-big-icon\"></span>"
+msgstr "Ubah tipe salinan ini <span class=\"cdp-premium-icon cdp-big-icon\"></span>"
+
+#: copy-delete-posts.php:891
+msgid "If you’re on a multisite you can copy it to other sites."
+msgstr "Jika Anda sedang berada pada multisitus Anda dapat menyalinnya ke situs yang lain."
+
+#: copy-delete-posts.php:889 copy-delete-posts.php:890
+msgid "This is a Premium Feature.<br><a href=\"https://sellcodes.com/CylMIdJD\" target=\"_blank\">Check it out and upgrade today</a>,<br>we made it <b>really affordable!</b>"
+msgstr "Ini adalah Fitur Premium.<br><a href=\"https://sellcodes.com/CylMIdJD\" target=\"_blank\">Periksa dan upgrade hari ini</a>,<br>kami berhasil <b>sunguh terjangkau!</b>"
+
+#: copy-delete-posts.php:888
+msgid "If you’re on a multisite you can copy it to other sites with the Premium Plugin. <a href=\"https://sellcodes.com/CylMIdJD\" target=\"_blank\">Order it now!</a>"
+msgstr "Jika Anda sedang berada pada multisitus Anda dapat menyalinnya ke situs yang lain dengan Plugin Premium. <a href=\"https://sellcodes.com/CylMIdJD\" target=\"_blank\">Pesan sekarang!</a>"
+
+#: copy-delete-posts.php:887
+msgid "here"
+msgstr "di sini"
+
+#: copy-delete-posts.php:886
+msgid "Define your copy settings"
+msgstr "Tentukan pengaturan salinan Anda"
+
+#: copy-delete-posts.php:885 menu/notifications.php:87
+msgid "Hide"
+msgstr "Sembunyikan"
+
+#: copy-delete-posts.php:884 menu/notifications.php:86
+msgid "Auto Cleaned-up"
+msgstr "Pembersihan otomatis"
+
+#: copy-delete-posts.php:883 menu/notifications.php:86
+msgid "Deleted Posts"
+msgstr "Post yang dihapus"
+
+#: copy-delete-posts.php:882 menu/notifications.php:56
+msgid "Kill"
+msgstr "Matikan"
+
+#: copy-delete-posts.php:881 menu/notifications.php:55
+msgid "Auto Cleaning-up"
+msgstr "Pembersihan otomatis"
+
+#: copy-delete-posts.php:880 menu/notifications.php:55
+msgid "Deleting Posts"
+msgstr "Menghapus Post"
+
+#: copy-delete-posts.php:879
+msgid "Change it to blank"
+msgstr "Ubah menjadi kosong"
+
+#: copy-delete-posts.php:878
+msgid "Change it to (Name of original)"
+msgstr "Ubah menjadi (Nama asli)"
+
+#: copy-delete-posts.php:877
+msgid "only if <u><b>not</b></u> empty"
+msgstr "hanya jika <u><b>tidak</b></u> kosong"
+
+#: copy-delete-posts.php:876
+msgid "<b>including</b> empty"
+msgstr "<b>termasuk</b> kosong"
+
+#: copy-delete-posts.php:875
+msgid "Something went wrong and we couldn't send request, are you connected to the internet?"
+msgstr "Terjadi kesalahan dan kami tidak dapat mengirimkan permintaan, apakah Anda tersambung ke internet?"
+
+#: copy-delete-posts.php:874
+msgid "Something went wrong and we couldn't send request, please try refresh page and try again."
+msgstr "Terjadi kesalahan dan kami tidak dapat mengirimkan permintaan, silakan coba segarkan laman dan coba kembali."
+
+#: copy-delete-posts.php:873
+msgid "Unknown response, please try refresh the page!"
+msgstr "Respons tidak diketahui, silakan coba segarkan laman!"
+
+#: copy-delete-posts.php:872
+msgid "License is valid, press the button again to activate!"
+msgstr "Lisensi valid, tekan tombol lagi untuk mengaktifkan!"
+
+#: copy-delete-posts.php:871
+msgid "License is already active, let us reload the page!"
+msgstr "Lisensi sudah aktif, mari kita buka kembali laman!"
+
+#: copy-delete-posts.php:870
+msgid "Please enter license key, currently it is empty."
+msgstr "Mohon masukkan kode lisensi, sekarang kosong."
+
+#: copy-delete-posts.php:869
+msgid "Something went wrong and we couldn't setup the deletion task. – Please check console for more info."
+msgstr "Terjadi kesalahan dan kami tidak dapat mengatur tugas penghapusan. – Silakan periksa konsol untuk info lebih lanjut."
+
+#: copy-delete-posts.php:868
+msgid "– Please try without throttling."
+msgstr "– Silakan mencoba tanpa throttling."
+
+#: copy-delete-posts.php:867
+msgid "Something went wrong and we couldn't setup the deletion task."
+msgstr "Terjadi kesalahan dan kami tidak dapat mengatur tugas penghapusan."
+
+#: copy-delete-posts.php:866
+msgid "Deletion process started, you can close this page now and wait till the process ends!"
+msgstr "Proses penghapusan dimulai, Anda dapat menutup laman ini sekarang dan tunggu hingga proses selesai!"
+
+#: copy-delete-posts.php:865
+msgid "You have wrong count in throttling field, please fix."
+msgstr "Anda memiliki penghitungan yang keliru di bidang throttling, silakan perbaiki."
+
+#: copy-delete-posts.php:864
+msgid "Nothing to do here, please select at least one post to delete."
+msgstr "Tidak ada yang dilakukan di sini, mohon pilih setidaknya satu post untuk menghapus."
+
+#: copy-delete-posts.php:863
+msgid "Please check that you completed all steps, before this task!"
+msgstr "Mohon periksa bahwa Anda menyelesaikan semua langkah, sebelum tugas ini!"
+
+#: copy-delete-posts.php:862
+msgid "No posts/pages meeting the current filter conditions."
+msgstr "Tidak ada post/laman yang memenuhi filter kondisi sekarang."
+
+#: copy-delete-posts.php:861
+msgid "You did not select any filter.<br>Click <a href=\"#\" class=\"cdp-show-the-copies\">here</a> to show all copies (of the selected post type) made by this plugin."
+msgstr "Anda tidak memilih filter apapun.<br>Klik <a href=\"#\" class=\"cdp-show-the-copies\">di sini</a> untuk menampilkan semua salinan (dari tipe post terpilih) yang dibuat oleh plugin ini."
+
+#: copy-delete-posts.php:860
+msgid "Cannot connect to the server, premium filters will not be applied."
+msgstr "Tidak dapat menyambung ke server, filter premium tidak akan diterapkan. "
+
+#: copy-delete-posts.php:859
+msgid "Please, check for: which duplicates you are looking for"
+msgstr "Mohon, periksa: duplikat mana yang Anda cari"
+
+#: copy-delete-posts.php:858
+msgid "Something went wrong and we couldn't get post list. – Please check console for more info."
+msgstr "Terjadi kesalahan dan kami tidak bisa memperoleh daftar post. – Mohon periksa konsol untuk info lebih lanjut."
+
+#: copy-delete-posts.php:857
+msgid "There was an error while getting data from server, please try again."
+msgstr "Terjadi kesalahan saat mengambil data dari server, mohon coba kembali."
+
+#: copy-delete-posts.php:856 copy-delete-posts.php:909
+msgid "Copy in progress..."
+msgstr "Menyalin dalam progres..."
+
+#: copy-delete-posts.php:855
+msgid "Something went wrong and we couldn't get profile settings – please try again!"
+msgstr "Terjadi kesalahan dan kami tidak bisa memperoleh pengaturan profil – mohon coba kembali!"
+
+#: copy-delete-posts.php:854
+msgid "Copy & Delete Post – Error"
+msgstr "Salin & Hapus Post – Kesalahan"
+
+#: copy-delete-posts.php:853
+msgid "Something went wrong and we couldn't get profile settings. – Check console for more details"
+msgstr "Terjadi kesalahan dan kami tidak bisa memperoleh pengaturan profil – Periksa konsol untuk rincian lebih lanjut"
+
+#: copy-delete-posts.php:852
+msgid "Unable to recognize selected profile, please try again."
+msgstr "Tidak dapat mengenali profil terpilih, mohon coba kembali."
+
+#: copy-delete-posts.php:851 copy-delete-posts.php:908
+msgid "Couldn't recognize that button, please try again."
+msgstr "Tidak dapat mengenali tombol tersebut, mohon coba kembali."
+
+#: copy-delete-posts.php:850 copy-delete-posts.php:907
+msgid "Something went wrong and we couldn't copy this post. – See dev console for more info."
+msgstr "Terjadi kesalahan dan kami tidak dapat menyalin post ini. – Lihat konsol dev untuk info lebih lanjut."
+
+#: copy-delete-posts.php:849 copy-delete-posts.php:906
+msgid "Something went wrong and we couldn't copy this post – please try again!"
+msgstr "Terjadi kesalahan dan kami tidak dapat menyalin post ini – mohon coba kembali!"
+
+#: copy-delete-posts.php:848
+msgid "You need to insert positive number for copies."
+msgstr "Anda harus memasukkan angka positif untuk salinan."
+
+#: copy-delete-posts.php:847 menu/configuration.php:443
+#: menu/configuration.php:454
+msgid "(Name of original)"
+msgstr "(Nama asli)"
+
+#: copy-delete-posts.php:846
+msgid "Something went wrong and we couldn't save your settings. – Please check console for more info."
+msgstr "Terjadi kesalahan dan kami tidak dapat menyimpan pengaturan Anda. – Mohon periksa konsol untuk info lebih lanjut."
+
+#: copy-delete-posts.php:845
+msgid "Something went wrong and we couldn't save your settings."
+msgstr "Terjadi kesalahan dan kami tidak dapat menyimpan pengaturan Anda."
+
+#: copy-delete-posts.php:844
+msgid "All your settings were saved!"
+msgstr "Semua pengaturan Anda disimpan!"
+
+#: copy-delete-posts.php:843
+msgid "Something went wrong and we couldn't update intro settings. – Please check console for more info."
+msgstr "Terjadi kesalahan dan kami tidak dapat memperbarui pengaturan intro. – Mohon periksa konsol untuk info lebih lanjut."
+
+#: copy-delete-posts.php:842
+msgid "Something went wrong and we couldn't update intro settings – try again!"
+msgstr "Terjadi kesalahan dan kami tidak dapat memperbarui pengaturan intro – coba kembali!"
+
+#: copy-delete-posts.php:841
+msgid "Something went wrong and we couldn't save intro settings."
+msgstr "Terjadi kesalahan dan kami tidak dapat menyimpan pengaturan intro."
+
+#: copy-delete-posts.php:840
+msgid "Something went wrong and we couldn't save intro settings!"
+msgstr "Terjadi kesalahan dan kami tidak dapat menyimpan pengaturan intro!"
+
+#: copy-delete-posts.php:839
+msgid "No items to show, try with other filters!"
+msgstr "Tidak ada item untuk ditampilkan, coba kembali dengan filter lain!"
+
+#: menu/configuration.php:998
+msgid "This will establish connection to the chat servers"
+msgstr "Ini akan membangun koneksi ke chat server"
+
+#: menu/configuration.php:996
+msgid "Connect with support (click to load)"
+msgstr "Sambungkan dengan dukungan (klik untuk memproses)"
+
+#. Description of the plugin
+msgid "The best solution to easily make duplicates of your posts & pages, and delete them in one go."
+msgstr "Solusi terbaik untuk membuat duplikasi post & halaman Anda, dan hapus sekaligus."
+
+#. Plugin URI of the plugin
+msgid "https://copy-delete-posts.com"
+msgstr "https://copy-delete-posts.com"
+
+#. Plugin Name of the plugin
+#: copy-delete-posts.php:357 copy-delete-posts.php:825
+#: copy-delete-posts.php:829
+msgid "Copy & Delete Posts"
+msgstr "Salin & Hapus Post"

@@ -1,0 +1,18 @@
+/*.elementor-element .icon {
+  position: relative;
+}*/
+.elementor-element .icon .wdp_icon::after {
+    content: "WDP";
+    font-size: 10px;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    /*background: #6d7882;*/
+    color: #6d7882;
+    padding: 2px 4px 3px 4px;
+    border-radius: 3px;
+    font-family: Roboto,Arial,Helvetica,Verdana,sans-serif;
+    text-align: center;
+    line-height: 1;
+    vertical-align: middle;
+}

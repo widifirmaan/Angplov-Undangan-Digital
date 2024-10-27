@@ -1,0 +1,271 @@
+/*------------------------------------------------------------------*/
+/*-------------------->>> 1. CSS General <<<------------------------*/
+/*------------------------------------------------------------------*/
+.wdp-clearfix:before, .wdp-clearfix:after {
+    content: " ";
+    display: block;
+    overflow: hidden;
+    visibility: hidden;
+    font-size: 0;
+    line-height: 0;
+    height: 0;
+}
+
+.wdp-clearfix:after {
+    clear: both;
+}
+
+* html .wdp-clearfix {
+    zoom: 1;
+}
+
+/* IE6 */
+*:first-child + html .wdp-clearfix {
+    zoom: 1;
+}
+
+/* IE7 */
+.wdp-float-l {
+    float: left;
+}
+
+.wdp-row {
+    width: 100%;
+    clear: both;
+    overflow: hidden;
+    padding: 10px 0;
+}
+
+.wdp-2-box {
+    width: 48%;
+    margin-right: 4%;
+    margin-bottom: 6px;
+}
+
+.wdp-3-box {
+    width: 30%;
+    margin-right: 5%;
+    margin-bottom: 6px;
+}
+
+.wdp-4-box {
+    width: 22%;
+    margin-right: 4%;
+    margin-bottom: 6px;
+}
+
+.wdp-5-box {
+    width: 18.3%;
+    margin-right: 2%;
+    margin-bottom: 6px;
+}
+
+.wdp-6-box {
+    width: 15%;
+    margin-right: 2%;
+    margin-bottom: 6px;
+}
+
+.wdp-7-box {
+    width: 13%;
+    margin-right: 2%;
+    margin-bottom: 6px;
+}
+
+.wdp-8-box {
+    width: 10%;
+    margin-right: 2.5%;
+    margin-bottom: 6px;
+}
+
+.wdp-9-box {
+    width: 8%;
+    margin-right: 2%;
+    margin-bottom: 6px;
+}
+
+.wdp-last {
+    margin-right: 0 !important;
+}
+
+.wdp-first {
+    margin-left: 0 !important;
+}
+
+/*------------------------------------------------------------------*/
+/*------>>> 2. Simple Ajax Insert Comments - Admin <<<--------------*/
+/*------------------------------------------------------------------*/
+#icon-wdp {
+    background: url(images/icono_wdp.png) no-repeat;
+}
+
+h2.title-settings {
+    font-size: 28px;
+    padding: 5px 10px 10px;
+}
+
+/*h2.title-settings:before {
+    content: "\f111";
+    display: inline-block;
+    padding-right: 8px;
+    -webkit-font-smoothing: antialiased;
+    font: normal 26px/1 'dashicons';
+    vertical-align: top;
+}*/
+
+h2#wdp-tabs {
+    max-width: 100%;
+}
+
+#wdp-tabs a {
+    padding: 4px 10px 6px;
+    outline: 0 none;
+    font-size: 18px;
+    -moz-border-radius: 3px 3px 0 0;
+    -webkit-border-top-left-radius: 3px;
+    -webkit-border-top-right-radius: 3px;
+    -khtml-border-top-left-radius: 3px;
+    -khtml-border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+#wdp-tabs a:hover {
+
+}
+
+#wdp-tabs a:focus {
+    box-shadow: none;
+}
+
+#wdp-tabs a.nav-tab-active,
+#wdp-tabs a.nav-tab-active:hover {
+    border-left-color: #CCCCCC;
+    border-right-color: #CCCCCC;
+    border-bottom: 1px solid #F1F1F1;
+}
+
+
+.wdp-tab-container {
+    clear: both;
+    max-width: 950px !important;
+    padding-top: 8px;
+}
+
+.wdp-tab_content {
+    padding: 20px;
+}
+
+#wdp-form {
+    color: #333;
+}
+
+.wdp-line-sep {
+    border-bottom: 1px solid #ccc;
+    margin-top: 10px;
+}
+
+.wdp-control-group {
+    clear: both;
+    padding: 12px 0 6px;
+}
+
+.wdp-control-group:first-child {
+}
+
+.wdp-control-group.last {
+    border-bottom: 0
+}
+
+.wdp-control-group .wdp-control-label {
+    float: left;
+    width: 30%;
+    text-align: right;
+}
+
+.wdp-control-group .wdp-control-label label {
+    display: block;
+    padding-top: 3px;
+    font-size: 13px;
+    font-weight: bold;
+    color: #23282d;
+}
+
+.wdp-control-group .wdp-controls {
+    float: left;
+    width: 65%;
+    margin-left: 5%;
+}
+
+.wdp-controls .wdp-radio {
+}
+
+.wdp-controls .wdp-radio-v {
+    padding-bottom: 8px;
+}
+
+.wdp-controls .wdp-radio-h {
+    margin-right: 10px;
+    float: left;
+
+}
+
+.wdp-controls label {
+    vertical-align: top !important;
+}
+
+.wdp-controls label.label-list {
+    float: left;
+    margin-right: 25px;
+}
+
+.wdp-descrip-item {
+    color: #888;
+    font-size: 11px;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 4px;
+}
+
+.wdp-control-group p.wdp-descrip-item {
+    margin: 5px 0;
+}
+
+.wdp-control-group span.wdp-descrip-item {
+    margin-left: 6px;
+}
+
+.wdp-controls input[type=text],
+.wdp-controls input[type=number] {
+    width: 99.9%;
+    padding: 4px 10px;
+}
+
+.wdp-help {
+    padding-left: 15px;
+}
+
+.wdp-help h3 {
+    font-size: 15px;
+    color: #515151;
+}
+
+.wdp-help p {
+    padding-left: 10px;
+}
+
+.wdp-help p.wdp-easy {
+    color: #3D9A62;
+    font-size: 20px;
+}
+
+.wdp-controls textarea {
+    width: 100%;
+    min-height: 240px;
+    padding: 8px 10px;
+}
+
+.wdp-controls select[multiple] {
+    min-width: 300px;
+    min-height: 150px;
+}

@@ -1,0 +1,11 @@
+[20-Mar-2024 05:05:48 UTC] PHP Fatal error:  Uncaught Error: Class "Hostinger\Hostinger" not found in /home/u233638437/domains/angplov.my.id/public_html/wp-content/plugins/hostinger/hostinger.php:83
+Stack trace:
+#0 /home/u233638437/domains/angplov.my.id/public_html/wp-settings.php(473): include_once()
+#1 /home/u233638437/domains/angplov.my.id/public_html/wp-config.php(105): require_once('/home/u23363843...')
+#2 /home/u233638437/domains/angplov.my.id/public_html/wp-load.php(50): require_once('/home/u23363843...')
+#3 /home/u233638437/domains/angplov.my.id/public_html/wp-blog-header.php(13): require_once('/home/u23363843...')
+#4 /home/u233638437/domains/angplov.my.id/public_html/index.php(17): require('/home/u23363843...')
+#5 {main}
+  thrown in /home/u233638437/domains/angplov.my.id/public_html/wp-content/plugins/hostinger/hostinger.php on line 83
+[20-Mar-2024 05:05:48 UTC] PHP Notice:  Function is_embed was called incorrectly. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /home/u233638437/domains/angplov.my.id/public_html/wp-includes/functions.php on line 6031
+[20-Mar-2024 05:05:48 UTC] PHP Notice:  Function is_search was called incorrectly. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /home/u233638437/domains/angplov.my.id/public_html/wp-includes/functions.php on line 6031
